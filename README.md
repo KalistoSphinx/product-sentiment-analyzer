@@ -5,6 +5,10 @@ Installation Guide
  
 + First clone this project
 
+```
+    git clone https://github.com/KalistoSphinx/product-sentiment-analyzer-2.git
+```
+
 + Create a virtual environment in the same folder 
 ```
     python -m venv {name_of_virtual_env}
