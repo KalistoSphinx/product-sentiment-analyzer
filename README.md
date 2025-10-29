@@ -6,7 +6,7 @@ Installation Guide
 + First clone this project
 
 ```
-    git clone https://github.com/KalistoSphinx/product-sentiment-analyzer-2.git
+    git clone https://github.com/KalistoSphinx/product-sentiment-analyzer.git
 ```
 
 + Create a virtual environment in the same folder 
