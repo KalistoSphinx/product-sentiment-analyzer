@@ -24,7 +24,7 @@ Installation Guide
     pip install -r requirements.txt
 ```
 
-+ Run the project (make the virtual environment is activated)
++ Run the project (make sure the virtual environment is activated)
 ```
     streamlit run app.py
 ```
